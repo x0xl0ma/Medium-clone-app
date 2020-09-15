@@ -1,0 +1,4 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "html.format.contentUnformatted": "pre,code,textarea",
+}
